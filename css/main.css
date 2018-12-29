@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'WeblySleekUILight';
   src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot');
-  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot?#iefix') format('embedded-opentype'),
+  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot') format('embedded-opentype'),
        url('/assets/fonts/WeblySleekUILight/weblysleekuil.woff') format('woff'),
        url('/assets/fonts/WeblySleekUILight/weblysleekuil.ttf') format('truetype'),
        url('/assets/fonts/WeblySleekUILight/weblysleekuil.svg#WeblySleekUILight') format('svg');
