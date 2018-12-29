@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'WeblySleekUI';
-  src: url('/assets/fonts/WeblySleekUI/weblysleekui.eot');
-  src: url('/assets/fonts/WeblySleekUI/weblysleekui.eot') format('embedded-opentype'),
-       url('/assets/fonts/WeblySleekUI/weblysleekui.woff') format('woff'),
-       url('/assets/fonts/WeblySleekUI/weblysleekui.ttf') format('truetype'),
-       url('/assets/fonts/WeblySleekUI/weblysleekui.svg#WeblySleekUI') format('svg');
+  font-family: 'WeblySleekUISemilight';
+  src: url('/assets/fonts/WeblySleekUILight/weblysleekuisl.eot');
+  src: url('/assets/fonts/WeblySleekUILight/weblysleekuisl.eot') format('embedded-opentype'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuisl.woff') format('woff'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuisl.ttf') format('truetype'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
 }
 
 .fontpro,.fontpro-21650 {
-  font-family: 'WeblySleekUI',sans-serif;
+  font-family: 'WeblySleekUISemilight',sans-serif;
 }
 
 
@@ -17,7 +17,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -36,25 +36,25 @@ a:hover {
 }
 h1 {
     font-size: 4.0em;
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
 }
 h2 {
     font-size: 3.5em;
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
 }
 h3 {
     font-size: 3.0em;
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
 }
 h4 {
     font-size: 2.0em;
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
 }
 p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-    font-family:'WeblySleekUI';
+    font-family:'WeblySleekUISemilight';
 }
 footer {
     border-top: 1px solid #d5d5d5;
