@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'WeblySleekUILight';
-  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot');
-  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot') format('embedded-opentype'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuil.woff') format('woff'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuil.ttf') format('truetype'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuil.svg#WeblySleekUILight') format('svg');
+  font-family: 'WeblySleekUI';
+  src: url('/assets/fonts/WeblySleekUI/weblysleekui.eot');
+  src: url('/assets/fonts/WeblySleekUI/weblysleekui.eot') format('embedded-opentype'),
+       url('/assets/fonts/WeblySleekUI/weblysleekui.woff') format('woff'),
+       url('/assets/fonts/WeblySleekUI/weblysleekui.ttf') format('truetype'),
+       url('/assets/fonts/WeblySleekUI/weblysleekui.svg#WeblySleekUI') format('svg');
 }
 
 .fontpro,.fontpro-21650 {
-  font-family: 'WeblySleekUILight',sans-serif;
+  font-family: 'WeblySleekUI',sans-serif;
 }
 
 
@@ -42,7 +42,7 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-    font-family:'WeblySleekUILight';
+    font-family:'WeblySleekUI';
 }
 footer {
     border-top: 1px solid #d5d5d5;
