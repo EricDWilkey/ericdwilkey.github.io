@@ -35,30 +35,30 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3.0em;
-    font-family:'WeblySleekUISemilight';
-}
-h2 {
     font-size: 2.5em;
     font-family:'WeblySleekUISemilight';
 }
-h3 {
+h2 {
     font-size: 2.0em;
     font-family:'WeblySleekUISemilight';
 }
-h4 {
+h3 {
     font-size: 1.5em;
     font-family:'WeblySleekUISemilight';
 }
+h4 {
+    font-size: 1.0em;
+    font-family:'WeblySleekUISemilight';
+}
 p {
-    font-size: 1.5em;
+    font-size: 1.0em;
     line-height: 1.4em;
     color: #333;
     font-family:'WeblySleekUISemilight';
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 2.0em;
+    font-size: 1.0em;
 }
 
 ul.posts {
