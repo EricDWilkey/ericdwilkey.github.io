@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'WeblySleekUILight-Italic';
-  src: url('/assets/fonts/WeblySleekUILight/weblysleekuili.eot');
-  src: url('/assets/fonts/WeblySleekUILight/weblysleekuili.eot?#iefix') format('embedded-opentype'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuili.woff') format('woff'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuili.ttf') format('truetype'),
-       url('/assets/fonts/WeblySleekUILight/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
+  font-family: 'WeblySleekUILight';
+  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot');
+  src: url('/assets/fonts/WeblySleekUILight/weblysleekuil.eot?#iefix') format('embedded-opentype'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuil.woff') format('woff'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuil.ttf') format('truetype'),
+       url('/assets/fonts/WeblySleekUILight/weblysleekuil.svg#WeblySleekUILight') format('svg');
 }
 
 .fontpro,.fontpro-21650 {
-  font-family: 'WeblySleekUILight-Italic',sans-serif;
+  font-family: 'WeblySleekUILight',sans-serif;
 }
 
 
