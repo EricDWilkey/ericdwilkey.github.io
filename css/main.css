@@ -35,6 +35,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-size: 4.0em;
+    font-family:'WeblySleekUI';
+}
+h2 {
+    font-size: 3.5em;
+    font-family:'WeblySleekUI';
+}
+h3 {
+    font-size: 3.0em;
+    font-family:'WeblySleekUI';
+}
+h4 {
     font-size: 2.0em;
     font-family:'WeblySleekUI';
 }
