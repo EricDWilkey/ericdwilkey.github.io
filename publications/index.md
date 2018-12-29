@@ -1,1 +1,35 @@
-The things I have written.
+**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. Child Development. doi: 10.1111/CDEV.13194.
+
+**Wilkey, E. D.**, & Price, G. R. (_in press_). Attention to number: The convergence of numerical magnitude processing, attention, and mathematics in the inferior frontal gyrus. Human Brain Mapping, 1–16. [https://doi.org/10.1002/hbm.24422](https://doi.org/10.1002/hbm.24422)
+
+**Wilkey, E. D.**, Cutting, L. E., & Price, G. R. (2018). Neuroanatomical correlates of performance in a state-wide test of math achievement. Developmental Science, 21(2), e12545. http://doi.org/10.1111/desc.12545
+
+Price, G. R. & **Wilkey, E. D.** (2018). Developmental Dyscalculia. In The SAGE encyclopedia
+of intellectual and developmental disorders. E. B. Braaten (Ed.). (Vol. 1, pp 379-383). Thousand Oaks, CA. Sage. http://dx.doi.org/10.4135/9781483392271.n125
+
+Price, G. R., Yeo, D. J., **Wilkey, E. D.**, & Cutting, L. E. (2018). Prospective relations between resting-state connectivity of parietal subdivisions and arithmetic competence. Developmental Cognitive Neuroscience, 30, 280–290. http://doi.org/10.1016/j.dcn.2017.02.006
+
+**Wilkey, E. D.**, Barone, J. C., Mazzocco, M. M. M., Vogel, S. E., & Price, G. R. (2017). The
+effect of visual parameters on neural activation during nonsymbolic number comparison and its
+relation to math competency. NeuroImage, 159 (August), 430–442.
+http://doi.org/10.1016/j.neuroimage.2017.08.023
+
+Price, G. R. & **Wilkey, E. D.** (2017). Cognitive mechanisms underlying the relation between
+nonsymbolic and symbolic magnitude processing and their relation to math. Cognitive
+Development, 44(September), 139–149. http://doi.org/10.1016/j.cogdev.2017.09.003
+
+Yeo, D. J., **Wilkey, E. D.**, & Price, G. R. (2017). The search for the number form area: A
+functional neuroimaging meta-analysis. Neuroscience & Biobehavioral Reviews, 78(April), 145
+160. http://doi.org/10.1016/j.neubiorev.2017.04.027
+
+Price, G. R., **Wilkey, E. D.**, & Yeo, D. J. (2017). Eye-movement patterns during nonsymbolic and symbolic numerical magnitude comparison and their relation to math calculation skills. Acta Psychologica, 176(March), 47–57. http://doi.org/10.1016/j.actpsy.2017.03.012
+
+*Merkley, R., **Wilkey, E. D.**, & Matejko, A. A. (2016). Exploring the Origins and Development of the Visual Number Form Area: A Functionally Specialized and Domain-Specific Region for the Processing of Number Symbols? Journal of Neuroscience. 36, 4659–4661. DOI: http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016
+* co-first-author publication
+
+Price, G. R., **Wilkey, E. D.**, Yeo, D. J., & Cutting, L. E. (2016). The relation between 1st grade greymatter volume and 2nd grade math competence. NeuroImage, 124, 232–237. doi:10.1016/j.neuroimage.2015.08.046
+
+Tripney, J., Hombrados, T. J., Newman, M., Hovish, K., Brown, C., Steinka-Fry, K., & Wilkey, E. D.  (2013). Technical and Vocational Education and Training Training (TVET) Interventions to Improve the Employability and Employment of Young People in Low- and Middle Income Countries : Systematic Review. Campbell Systematic Reviews, 9. doi:10.4073/csr.2013.9
+
+Cerruti, C., **Wilkey, E. D.**, (2011) Verbal overshadowing and verbal facilitation in creative cognition. In L. DellaPietra (Ed.), Perspectives on Creativity Vol. 2. (pp. 178-187). Cambridge, UK: Cambridge Scholars Press. download.
+
