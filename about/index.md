@@ -9,6 +9,6 @@ title: Eric D. Wilkey, About
 	<h2><center>About Me</center></h1>
 </div><!-- /.blurb -->
 
-<center><img src="Eric.jpg" width="100" height="100" alt= "EricFace"</center>
+<center><img src="Eric.jpg" width="100" height="100" alt= "EricFace"></center>
 
 A few things about me.
