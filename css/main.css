@@ -39,18 +39,18 @@ h3 {
     font-family:'WeblySleekUISemilight';
 }
 h4 {
-    font-size: 1.0em;
+    font-size: 1.2em;
     font-family:'WeblySleekUISemilight';
 }
 p {
-    font-size: 1.0em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
     font-family:'WeblySleekUISemilight';
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 1.0em;
+    font-size: 1.5em;
 }
 
 ul.posts {
