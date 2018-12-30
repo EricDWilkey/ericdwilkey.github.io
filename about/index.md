@@ -10,4 +10,4 @@ title: Eric D. Wilkey, About
 
 <center><img src="Eric.jpg" width="200" height="200" alt= "EricFace"></center>
 
-<h4>A few things about me.</h4>
+<p>A few things about me.</p>
