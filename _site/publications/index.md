@@ -2,7 +2,7 @@
 
 > ### - IN PRESS -
 
-**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. _Child Development_. doi: 10.1111/CDEV.13194.
+**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. _Child Development_. [https://doi.org/10.1111/cdev.13194](https://doi.org/10.1111/cdev.13194)
 
 **Wilkey, E. D.**, & Price, G. R. (_in press_). Attention to number: The convergence of numerical magnitude processing, attention, and mathematics in the inferior frontal gyrus. _Human Brain Mapping_, 1–16. [https://doi.org/10.1002/hbm.24422](https://doi.org/10.1002/hbm.24422)
 
