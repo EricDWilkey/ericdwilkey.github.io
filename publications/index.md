@@ -2,7 +2,7 @@
 
 > ### - IN PRESS -
 
-**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. _Child Development_. doi: 10.1111/CDEV.13194.
+**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. _Child Development_. [https://doi.org/10.1111/cdev.13194](https://doi.org/10.1111/cdev.13194)
 
 **Wilkey, E. D.**, & Price, G. R. (_in press_). Attention to number: The convergence of numerical magnitude processing, attention, and mathematics in the inferior frontal gyrus. _Human Brain Mapping_, 1–16. [https://doi.org/10.1002/hbm.24422](https://doi.org/10.1002/hbm.24422)
 
@@ -27,7 +27,8 @@ Price, G. R., **Wilkey, E. D.**, & Yeo, D. J. (2017). Eye-movement patterns duri
 
 > ###   - 2016 -
 
-Merkley, R., **Wilkey, E. D.**, & Matejko, A. A. (2016). Exploring the Origins and Development of the Visual Number Form Area: A Functionally Specialized and Domain-Specific Region for the Processing of Number Symbols? _Journal of Neuroscience_. 36, 4659–4661. DOI: [http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016](http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016) **co-first-author publication**
+**\***Merkley, R., **Wilkey, E. D.**, & Matejko, A. A. (2016). Exploring the Origins and Development of the Visual Number Form Area: A Functionally Specialized and Domain-Specific Region for the Processing of Number Symbols? _Journal of Neuroscience_. 36, 4659–4661. DOI: [http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016](http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016)
+**\*co-first-author publication**
 
 Price, G. R., **Wilkey, E. D.**, Yeo, D. J., & Cutting, L. E. (2016). The relation between 1st grade greymatter volume and 2nd grade math competence. _NeuroImage_, 124, 232–237. [http://doi.org/10.1016/j.neuroimage.2015.08.046](http://doi.org/10.1016/j.neuroimage.2015.08.046)
 

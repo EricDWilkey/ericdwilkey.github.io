@@ -27,7 +27,8 @@ Price, G. R., **Wilkey, E. D.**, & Yeo, D. J. (2017). Eye-movement patterns duri
 
 > ###   - 2016 -
 
-Merkley, R., **Wilkey, E. D.**, & Matejko, A. A. (2016). Exploring the Origins and Development of the Visual Number Form Area: A Functionally Specialized and Domain-Specific Region for the Processing of Number Symbols? _Journal of Neuroscience_. 36, 4659–4661. DOI: [http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016](http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016) **co-first-author publication**
+**\***Merkley, R., **Wilkey, E. D.**, & Matejko, A. A. (2016). Exploring the Origins and Development of the Visual Number Form Area: A Functionally Specialized and Domain-Specific Region for the Processing of Number Symbols? _Journal of Neuroscience_. 36, 4659–4661. DOI: [http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016](http://dx.doi.org/10.1523/JNEUROSCI.0710-16.2016)
+**\*co-first-author publication**
 
 Price, G. R., **Wilkey, E. D.**, Yeo, D. J., & Cutting, L. E. (2016). The relation between 1st grade greymatter volume and 2nd grade math competence. _NeuroImage_, 124, 232–237. [http://doi.org/10.1016/j.neuroimage.2015.08.046](http://doi.org/10.1016/j.neuroimage.2015.08.046)
 
