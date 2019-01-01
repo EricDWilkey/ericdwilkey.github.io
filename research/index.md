@@ -12,7 +12,7 @@ title: Eric D. Wilkey, Research
 > My dissertation research focused on the integration of attention systems in the brain with numerical magnitude processing mechanisms. I found out that attention is an important mechanism to consider in how numerical perception relates to math ability, both for typically developing children and for those with math difficulties. I look forward to integrating these new findings with existing models of numerical cognition.
 
 ### Executive Function and Math
-> Little is known about how representation of number and mathematical knowledge is integrated with executive function mechanisms in the brain, such as working memory, inhibitory control, and rule switching. But, we do know that this link is very important! Some of my current work focuses on this integration.
+> Little is known about how representation of number and mathematical knowledge is integrated with executive function mechanisms (working memory, inhibitory control, and rule switching). But, we do know that this link is very important! Some of my current work focuses on this integration.
 
 ### Ultra-high field functional Magnetic Resonance Imaging
 > One of the neuroimaging advances that I'm excited about is ultra-high field strengths. Both my PhD institution, Vanderbilt, and my postdoc institution, Western, have 7 Tesla MRI magnets. The use of such high field strengths for research in functional imaging has led to increased data quality and some really neat neuroimaging techniques.
