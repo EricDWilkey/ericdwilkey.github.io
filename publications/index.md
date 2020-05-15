@@ -1,10 +1,21 @@
 ## <center>Publications</center>
 
-> ### - IN PRESS -
+> ### - 2020 -
 
-**Wilkey, E.D.**, Pollack, C., Price, G. R. (_in press_). Dyscalculia and typical math achievement are associated with individual differences in number specific executive function. _Child Development_. [https://doi.org/10.1111/cdev.13194](https://doi.org/10.1111/cdev.13194)
+Conrad, B. N., **Wilkey, E. D.**, Yeo, D. J. & Price, G. R. (accepted). Network topology of symbolic and nonsymbolic number comparison. _Network Neuroscience_.
 
-**Wilkey, E. D.**, & Price, G. R. (_in press_). Attention to number: The convergence of numerical magnitude processing, attention, and mathematics in the inferior frontal gyrus. _Human Brain Mapping_, 1–16. [https://doi.org/10.1002/hbm.24422](https://doi.org/10.1002/hbm.24422)
+**Wilkey, E.D.**, Pollack, C., Price, G. R. (2020). Dyscalculia and typical math achievement are
+associated with individual differences in number specific executive function. _Child Development_, 91(2), 596-619.[https://doi.org/10.1111/cdev.13194](https://doi.org/10.1111/cdev.13194)
+
+**Wilkey, E. D.**, & Ansari, D. (2020). Challenging the neurobiological link between number sense and
+symbolic numerical abilities. _Annals of the New York Academy of Sciences_.[https://doi.org/10.1111/nyas.14225](https://doi.org/10.1111/nyas.14225)
+
+> ### - 2019 -
+
+Yeo, D. J., **Wilkey, E.D.**, Price, G. R. (2019). Malleability of mapping between Arabic numerals and
+approximate quantities: Factors underlying individual differences and the relation to math. _Acta Psychologica_, 198, 102877.[https://doi.org/10.1016/j.actpsy.2019.102877](https://doi.org/10.1016/j.actpsy.2019.102877)
+
+**Wilkey, E. D.**, & Price, G. R. (2019). Attention to number: The convergence of numerical magnitude processing, attention, and mathematics in the inferior frontal gyrus. _Human Brain Mapping_, 1–16. [https://doi.org/10.1002/hbm.24422](https://doi.org/10.1002/hbm.24422)
 
 > ### - 2018 -
 
