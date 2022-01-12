@@ -1,8 +1,18 @@
 ## <center>Publications</center>
 
+> ### - 2021 -
+
+Lynn, A., **Wilkey, E. D.**, Price, G. R. (accepted). Predicting children’s math skills from functional brain network connectivity: A connectome-based predictive modeling approach. _Cerebral Cortex_. Preprint: https://psyarxiv.com/xp79b/
+
+**Wilkey, E. D.**, Shanley, L., Sabb, F., Ansari, D., Cohen, J. C., Men, V., Heller, N., Clarke, B. (accepted) Sharpening, focusing, and developing: a study of change in nonsymbolic number comparison skills and math achievement in 1st grade. _Developmental Science_. [https://doi-org.proxy1.lib.uwo.ca/10.1111/desc.13194](https://doi-org.proxy1.lib.uwo.ca/10.1111/desc.13194)
+
+Pollack, C., **Wilkey, E. D., Price**, G. R. (accepted) Predictors of middle school students’ growth in symbolic number comparison performance. Journal of Numerical Cognition.
+
 > ### - 2020 -
 
-Conrad, B. N., **Wilkey, E. D.**, Yeo, D. J. & Price, G. R. (accepted). Network topology of symbolic and nonsymbolic number comparison. _Network Neuroscience_.
+**Wilkey, E. D.**, Conrad, B. N., Yeo, D. J. & Price, G. R. (2020). Shared Numerosity Representations Across Formats and Tasks Revealed with 7 Tesla fMRI: Decoding, Generalization, and Individual Differences in Behavior. _Cerebral Cortex Communications_. [https://doi.org/10.1093/texcom/tgaa038](https://doi.org/10.1093/texcom/tgaa038)
+
+Conrad, B. N., **Wilkey, E. D.**, Yeo, D. J. & Price, G. R. (2020). Network topology of symbolic and nonsymbolic number comparison. _Network Neuroscience_. [https://doi.org/10.1162/netn_a_00144](https://doi.org/10.1162/netn_a_00144)
 
 **Wilkey, E.D.**, Pollack, C., Price, G. R. (2020). Dyscalculia and typical math achievement are
 associated with individual differences in number specific executive function. _Child Development_, 91(2), 596-619.[https://doi.org/10.1111/cdev.13194](https://doi.org/10.1111/cdev.13194)
