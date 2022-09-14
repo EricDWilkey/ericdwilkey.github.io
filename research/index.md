@@ -27,4 +27,4 @@ title: Eric D. Wilkey, Research
 <br>
 
 ### Open Science
-> I'm relatively new to open science. If you are too, [here are some resources](https://opensciencemooc.eu/). That said, I'm quickly learning that it will be an important part of my research going forward. In essence it is just a way of practicing science that prioritizes transparency in research (_which makes for good science_) and openness in dissemination (_which creates science for the common good_). It also facilitates collaboration amongst colleagues.
+> I am committed to making my research transparent, reproducible, and accessible using open science practices. If you're interested in learning more about it see [here](https://www.cos.io/) and [here](https://opensciencemooc.eu/). In essence it is just a way of practicing science that prioritizes transparency in research (_which makes for good science_) and openness in dissemination (_which creates science for the common good_) leading to the democratization of knowledge. It also facilitates collaboration amongst colleagues.
