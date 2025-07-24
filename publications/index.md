@@ -1,12 +1,40 @@
 ## <center>Publications</center>
 
-> ### - 2021 -
+> ### - 2025 -
 
-Lynn, A., **Wilkey, E. D.**, Price, G. R. (accepted). Predicting children’s math skills from functional brain network connectivity: A connectome-based predictive modeling approach. _Cerebral Cortex_. Preprint: https://psyarxiv.com/xp79b/
+Starling Alves, I., Wilkey, E. D. (under review) Congruency and distance effects vary across simultaneous and sequential two-digit integer, fraction, and decimal comparison tasks. preprint: [https://osf.io/preprints/psyarxiv/t4nzb_v1](https://osf.io/preprints/psyarxiv/t4nzb_v1)
 
-**Wilkey, E. D.**, Shanley, L., Sabb, F., Ansari, D., Cohen, J. C., Men, V., Heller, N., Clarke, B. (accepted) Sharpening, focusing, and developing: a study of change in nonsymbolic number comparison skills and math achievement in 1st grade. _Developmental Science_. [https://doi-org.proxy1.lib.uwo.ca/10.1111/desc.13194](https://doi-org.proxy1.lib.uwo.ca/10.1111/desc.13194)
+Starling Alves, I., Shanley, L., Cook, M., Smith, J., Sabb, F. W., Clarke, B., Wilkey, E. D. (accepted). _Scientific Reports_. Altered resting-state functional connectivity in subdivisions of the intraparietal sulcus and the angular gyrus in 1st graders identified for math support in the classroom.
 
-Pollack, C., **Wilkey, E. D., Price**, G. R. (accepted) Predictors of middle school students’ growth in symbolic number comparison performance. Journal of Numerical Cognition.
+Starling-Alves, I., Peters, L., **Wilkey, E. D.** (2025). Beyond the sum of their parts: a multi-dimensional approach to dyscalculia-dyslexia comorbidity. _Developmental Cognitive Neuroscience_. [https://doi.org/10.1016/j.dcn.2025.101510](https://doi.org/10.1016/j.dcn.2025.101510)
+
+> ### - 2024 -
+
+Starling-Alves, I., Russell-Lasalandra, L. L., Lau, N. T. T., Moreira Paiva, G., Geraldi Haase, V., & **Wilkey, E. D.** (2024). Number and domain both affect the relation between executive function and mathematics achievement: A study of children’s executive function with and without numbers. _Developmental Psychology_, 60(12), 2345–2366. [https://doi.org/10.1037/dev0001814](https://doi.org/10.1037/dev0001814)
+
+> ### - 2023 -
+
+*Kwok, F. Y., ***Wilkey, E. D.**, *Peters, L., Khiu, E., Bull, R., Lee, K., & Ansari, D. (2023). Developmental dyscalculia is not associated with atypical brain activation: A univariate fMRI study of arithmetic, magnitude processing, and visuospatial working memory. Human Brain Mapping, 44(18), 6308–6325. https://doi.org/10.1002/hbm.26495
+*shared first-authors
+
+**Wilkey, E. D. (2023)**. The Domain-Specificity of Domain-Generality: Attention, Executive Function, and Academic Skills. _Mind, Brain, and Education_, 17(4), 349–361. [https://doi.org/10.1111/mbe.12373](https://doi.org/10.1111/mbe.12373)
+
+Mielicki, M. K., **Wilkey, E. D.**, Scheibe, D. A., Fitzsimmons, C. J., Sidney, P. G., Bellon, E., Ribner, A. D., Soltanlou, M., Starling-Alves, I., Coolen, I., Ansari, D., & Thompson, C. A. (2023). Task features change the relation between math anxiety and number line estimation performance with rational numbers: Two large-scale online studies. _Journal of Experimental Psychology: General_, 152(7), 2094–2117. [https://doi.org/10.1037/xge0001382](https://doi.org/10.1037/xge0001382)
+
+**Wilkey, E. D.**, Peiris, A., Gupta, I., Ansari, D. (2023) The Mathematical Brain at Rest. _Current Opinion in Behavioral Sciences_, 49, 101246. [https://doi.org/10.1016/j.cobeha.2022.101246](https://doi.org/10.1016/j.cobeha.2022.101246)
+
+> ### - 2022 -
+
+Smith, J., **Wilkey, E. D.**, Clarke, B., Shanley, L., Men, V., Fair, D., Sabb, F. W.. (2022) Can this data be saved? Techniques for high motion in resting state scans of first grade children. Techniques for high motion in resting state scans of first grade children. _Developmental Cognitive Neuroscience_, 58, 101178. [https://doi.org/10.1016/j.dcn.2022.101178](https://doi.org/10.1016/j.dcn.2022.101178)
+
+Lau, N. T., **Wilkey, E. D.**, Soltanlou, M., Lagacé Cusiac, R., Peters, L., Tremblay, P., ... & Ansari, D. (2022). Numeracy and COVID-19: examining interrelationships between numeracy, health numeracy and behaviour. _Royal Society Open Science_, 9(3), 201303. [https://doi.org/10.1098/rsos.201303](https://doi.org/10.1098/rsos.201303) Project page: [https://osf.io/qpdnt/](https://osf.io/qpdnt/)
+
+Lynn, A., **Wilkey, E. D.**, Price, G. R. (2022). Predicting children’s math skills from functional brain network connectivity: A connectome-based predictive modeling approach. _Cerebral Cortex_, 32(19), 4204–4214. [https://doi.org/10.1093/cercor/bhab476](https://doi.org/10.1093/cercor/bhab476)
+
+**Wilkey, E. D.**, Shanley, L., Sabb, F., Ansari, D., Cohen, J. C., Men, V., Heller, N., Clarke, B. (2022) Sharpening, focusing, and developing: a study of change in nonsymbolic number comparison skills and math achievement in 1st grade. _Developmental Science_ , 25(3), e13194. [https://doi.org/10.1111/desc.13194](https://doi.org/10.1111/desc.13194)
+
+Pollack, C., **Wilkey, E. D.**, & Price, G. R. (2022). Predictors of Middle School Students’ Growth in Symbolic Number Comparison Performance. Journal of Numerical Cognition, 8(1), 53–72. https://doi.org/10.5964/jnc.8069<img width="468" height="41" alt="image" src="https://github.com/user-attachments/assets/70b152aa-d282-41fb-98c6-5889353bc5e1" />
+
 
 > ### - 2020 -
 
