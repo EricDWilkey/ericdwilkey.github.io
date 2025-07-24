@@ -15,7 +15,7 @@ Starling-Alves, I., Russell-Lasalandra, L. L., Lau, N. T. T., Moreira Paiva, G.,
 > ### - 2023 -
 
 *Kwok, F. Y., ***Wilkey, E. D.**, *Peters, L., Khiu, E., Bull, R., Lee, K., & Ansari, D. (2023). Developmental dyscalculia is not associated with atypical brain activation: A univariate fMRI study of arithmetic, magnitude processing, and visuospatial working memory. Human Brain Mapping, 44(18), 6308–6325. https://doi.org/10.1002/hbm.26495
-*shared first-authors
+\*shared first-authors
 
 **Wilkey, E. D. (2023)**. The Domain-Specificity of Domain-Generality: Attention, Executive Function, and Academic Skills. _Mind, Brain, and Education_, 17(4), 349–361. [https://doi.org/10.1111/mbe.12373](https://doi.org/10.1111/mbe.12373)
 
