@@ -12,6 +12,10 @@ Starling-Alves, I., Peters, L., **Wilkey, E. D.** (2025). Beyond the sum of thei
 
 Starling-Alves, I., Russell-Lasalandra, L. L., Lau, N. T. T., Moreira Paiva, G., Geraldi Haase, V., & **Wilkey, E. D.** (2024). Number and domain both affect the relation between executive function and mathematics achievement: A study of children’s executive function with and without numbers. _Developmental Psychology_, 60(12), 2345–2366. [https://doi.org/10.1037/dev0001814](https://doi.org/10.1037/dev0001814)
 
+Bhat, K. G., Mogan, A. D., Saavedra, A., Fuentes-Jimenez, M., Siebert, J. M., Anya Ma, W., Townley-Flores, C., Richie-Halford, A. C., The ROAR Developer Consortium, ***Wilkey, E. D.**, *Yeatman. J. D. [https://osf.io/preprints/osf/em3bg_v1](https://osf.io/preprints/osf/em3bg_v1). Shared and Unique Influences of Phonological Processing on Reading and Math \
+*Denotes shared senior authorship
+
+
 > ### - 2023 -
 
 *Kwok, F. Y., ***Wilkey, E. D.**, *Peters, L., Khiu, E., Bull, R., Lee, K., & Ansari, D. (2023). Developmental dyscalculia is not associated with atypical brain activation: A univariate fMRI study of arithmetic, magnitude processing, and visuospatial working memory. Human Brain Mapping, 44(18), 6308–6325. https://doi.org/10.1002/hbm.26495\
