@@ -4,7 +4,7 @@
 
 Starling Alves, I., **Wilkey, E. D.** (under review) Congruency and distance effects vary across simultaneous and sequential two-digit integer, fraction, and decimal comparison tasks. preprint: [https://osf.io/preprints/psyarxiv/t4nzb_v1](https://osf.io/preprints/psyarxiv/t4nzb_v1)
 
-Starling Alves, I., Shanley, L., Cook, M., Smith, J., Sabb, F. W., Clarke, B., **Wilkey, E. D.** (accepted). _Scientific Reports_. Altered resting-state functional connectivity in subdivisions of the intraparietal sulcus and the angular gyrus in 1st graders identified for math support in the classroom.
+Starling-Alves, I., Shanley, L., Cook, M. A., Sabb, F. W., Smith, J., Clarke, B., & **Wilkey, E. D.** (2025). Children identified for classroom-based math support show altered resting-state connectivity in parietal brain regions. _Scientific Reports_, 15(1). https://doi.org/10.1038/s41598-025-12809-7
 
 Starling-Alves, I., Peters, L., **Wilkey, E. D.** (2025). Beyond the sum of their parts: a multi-dimensional approach to dyscalculia-dyslexia comorbidity. _Developmental Cognitive Neuroscience_. [https://doi.org/10.1016/j.dcn.2025.101510](https://doi.org/10.1016/j.dcn.2025.101510)
 
