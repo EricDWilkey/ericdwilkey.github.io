@@ -1,6 +1,6 @@
 ## <center>Publications</center>
 
-> ### - In Press & Under Review -
+> ### - Preprints -
 
 Mogan, A. D., Bhat, K. G., Lau, N. T. T., Murray, A., **Wilkey, E. D.** (_under review_) Working with numbers and letters: Stimulus domain shapes the structure and academic relevance of executive functions. (preprint: [https://osf.io/preprints/psyarxiv/c7as8_v1](https://osf.io/preprints/psyarxiv/c7as8_v1))
 
